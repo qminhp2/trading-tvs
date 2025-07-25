@@ -1,0 +1,4 @@
+date,symbol,entry_price,exit_price,pnl,pnl_percent,size
+2024-10-04,TCB,24950.0,0,600.0,0,0
+2024-10-04,STB,33550.0,0,-150.0,0,0
+2024-12-31,TCB,24500.0,0,150.0,0,0
